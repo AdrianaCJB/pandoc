@@ -14,3 +14,8 @@ Note: You have to put in the same directory this files as following:
 - header.tex
 - listings-setup.tex 
 - manual_to_pdf.md
+
+
+Official Documentation:
+
+https://pandoc.org/demos.html
